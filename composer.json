@@ -1,6 +1,6 @@
 {
   "name": "phing/task-phpdoc",
-  "description": "This task runs phpDocumentor 2, a API documentation tool. This project is the result of the merge of the phpDocumentor and DocBlox projects.",
+  "description": "This task runs phpDocumentor 2, a API documentation tool. This project is the result of the merge of the phpDocumentor and DocBlox projects. Forked for POPP6/PHP8",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": "LGPL-3.0-only",
